@@ -1,0 +1,43 @@
+/* SCSS RGB
+$xiketic: rgba(3, 7, 30, 1);
+$dark-sienna: rgba(55, 6, 23, 1);
+$rosewood: rgba(106, 4, 15, 1);
+$dark-red: rgba(157, 2, 8, 1);
+$rosso-corsa: rgba(208, 0, 0, 1);
+$vermilion: rgba(220, 47, 2, 1);
+$persimmon: rgba(232, 93, 4, 1);
+$carrot-orange: rgba(244, 140, 6, 1);
+$orange-web: rgba(250, 163, 7, 1);
+$selective-yellow: rgba(255, 186, 8, 1);
+*/
+body {
+    font-family: 'Jockey One', sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    background-color: #03071e;
+    color: #f48c06;
+}
+.gugi {
+    font-family: 'Gugi', cursive;
+    color: #dc2f02;
+    background-color: #370617;
+    padding: 10px;
+}
+h1 {
+    line-height: 35px;
+}
+strong {
+    color: #e85d04;
+}
+em {
+    color: #ffba08;
+}
+.red {
+    color: #d00000;
+}
+.dark-yellow {
+    color: #f48c06;
+}
+img {
+    border-radius: 100%;
+}

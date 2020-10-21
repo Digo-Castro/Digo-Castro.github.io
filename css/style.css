@@ -1,26 +1,60 @@
-
 body {
     font-family: 'Jockey One', sans-serif;
     font-size: 20px;
     line-height: 25px;
-    background-color: #264653;
-    color: #2a9d8f;
+    background-color: #ACC3C8;
+    color: #0F353D;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    min-width: 859px;
 }
 .gugi {
     font-family: 'Gugi', cursive;
-    color: #2a9d8f;
-    background-color: #e9c46a;
+    color: #0F353D;
+    background-color: #22778A;
     padding: 10px;
+    margin: 0;
 }
 h1 {
     line-height: 35px;
 }
-strong, em {
-    color: #dddf00;
+.center {
+    text-align: center;
 }
-.lemon {
-    color: #dddf00;
+strong, em {
+    color: #1C4852;
+}
+a {
+    color: #22778A;
+}
+.w50 {
+    margin: 35px 0px;
+    width: 600px;
+    display: inline-block;
+}
+.w50-img{
+    box-sizing: border-box;
+    margin: 35px 0px 35px 35px;
+    width: 220px;
+    height: 220px;
+    background-color: #22778A;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.w100 {
+    width: 100%;
+    display: inline-block;
+    align-content: center;
+    vertical-align: top;
 }
 img {
     border-radius: 100%;
+    border: 2px solid #0F353D;
+    height: 200px;
 }
+.w50 p {
+    margin-left: 10px;
+} 

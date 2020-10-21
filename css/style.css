@@ -57,4 +57,11 @@ img {
 }
 .w50 p {
     margin-left: 10px;
-} 
+}
+.footer {
+    background-color: #22778A;
+}
+.footer a {
+    color: #ffffff;
+    padding: 0px 10px;
+}

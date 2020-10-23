@@ -17,6 +17,14 @@ body {
     padding: 10px;
     margin: 0;
 }
+header{
+    position: fixed;
+    top: 0;
+}
+main {
+    margin-top: 130px;
+}
+
 h1 {
     line-height: 35px;
 }
@@ -58,10 +66,32 @@ img {
 .w50 p {
     margin-left: 10px;
 }
-.footer {
+footer {
     background-color: #22778A;
 }
-.footer a {
+footer a {
     color: #ffffff;
     padding: 0px 10px;
+}
+footer p {
+    display: inline-block;
+    margin: 10px;
+}
+nav {
+    height: 30px;
+    background-color: #22778A;
+    box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.27);
+}
+nav li , a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0;
+    padding-right: 10px;
+    color: white
+}
+nav ul{
+    margin: 0;
+}
+a:hover {
+    text-decoration: underline;
 }

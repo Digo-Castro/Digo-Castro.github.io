@@ -95,3 +95,15 @@ nav ul{
 a:hover {
     text-decoration: underline;
 }
+#topo {
+    position: absolute;
+    top: 0px;
+}
+#skills {
+    position: absolute;
+    top: 300px;
+}
+#projetos {
+    position: absolute;
+    top: 500px;
+}

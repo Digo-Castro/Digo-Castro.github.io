@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.39002939.chunk.css",
-    "main.js": "/static/js/main.385e1638.chunk.js",
-    "main.js.map": "/static/js/main.385e1638.chunk.js.map",
+    "main.css": "/static/css/main.8f9829cc.chunk.css",
+    "main.js": "/static/js/main.1c721880.chunk.js",
+    "main.js.map": "/static/js/main.1c721880.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b50beb86.js",
     "runtime-main.js.map": "/static/js/runtime-main.b50beb86.js.map",
     "static/js/2.81fff16c.chunk.js": "/static/js/2.81fff16c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.74a96ceb.chunk.js": "/static/js/3.74a96ceb.chunk.js",
     "static/js/3.74a96ceb.chunk.js.map": "/static/js/3.74a96ceb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.39002939.chunk.css.map": "/static/css/main.39002939.chunk.css.map",
+    "static/css/main.8f9829cc.chunk.css.map": "/static/css/main.8f9829cc.chunk.css.map",
     "static/js/2.81fff16c.chunk.js.LICENSE.txt": "/static/js/2.81fff16c.chunk.js.LICENSE.txt",
     "static/media/arrowUp.dd681a8e.svg": "/static/media/arrowUp.dd681a8e.svg",
     "static/media/blobHero.74933f55.svg": "/static/media/blobHero.74933f55.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b50beb86.js",
     "static/js/2.81fff16c.chunk.js",
-    "static/css/main.39002939.chunk.css",
-    "static/js/main.385e1638.chunk.js"
+    "static/css/main.8f9829cc.chunk.css",
+    "static/js/main.1c721880.chunk.js"
   ]
 }
